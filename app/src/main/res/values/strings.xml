@@ -1,0 +1,37 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ps">
+    <string name="app_name">د جغرافیې ازموینه</string>
+    <string name="next_button">بل</string>
+    <string name="prev_button">پخوانی</string>
+    <string name="true_button">صحیح</string>
+    <string name="false_button">غلط</string>
+    <string name="correct_toast">سم ځواب!</string>
+    <string name="incorrect_toast">ناسم ځواب!</string>
+    <string name="q_1">هرات ولایت د افغانستان پلازمینه ده.</string>
+    <string name="q_2">پاکستان  د افغانستان ګاونډی ده.</string>
+    <string name="q_3"> روسیه د افغانستان ګاونډۍ ده.</string>
+    <string name="q_4">افغانستان په غرونو کی کلابند هیواد دی.</string>
+    <string name="q_5">افغانستان له ترکیې سره پوله  لري.</string>
+    <string name="q_6">جبل السراج بریښناکوټ په افغانستان کی.</string>
+    <string name="q_7">افغانستان خورا لږ سیندونه او د ابو زیرمې لري.</string>
+    <string name="q_8">افغانستان په منځنۍ او ختیځیې آسیا کې پروت دی.</string>
+    <string name="q_9">افغانستان۶۴۲۲۳۰ کیلو متره لوی والی لري.</string>
+    <string name="q_10">افغانستان د میانمار څخه کوچنی او فرانسې څخه لوی دی.</string>
+    <string name="q_11">افغانستان په ختیځ کې د هند سمندر سره نښتی دی.</string>
+    <string name="q_12">جوزجان د افغانستان له ټولو هسکه سیمه ده.</string>
+    <string name="q_13">د هندوکش څوکه ۸۰۰ کیلو متره لوړوالۍ لري.</string>
+    <string name="q_14">د نورستان ولایت مرکز پارون نومیږي.</string>
+    <string name="q_15">د نورستان ولایت شپږ ولسوالۍ دي.</string>
+    <string name="q_16">په افغانستان کي واورین پلنګ پیدا کیږی.</string>
+    <string name="q_17">پیلان د افغانستان په نیمه صحرايي سیمو کی ژوند کوی.</string>
+    <string name="q_18">ژمی کې د افغانستان د غرنۍ سیمو هوا ډیره سړه وي.</string>
+    <string name="q_19"> د اوړي په موسم کې په معمولي ډول د کابل هوا له ۴۰ سانتې ګریډ څخه لوړه وي.</string>
+    <string name="q_20">آمو سیند د افغانستان په شمالي برخې کې د چین په لوري بهیږی.</string>
+    <string name="q_21">محسن د ورځی شپږ ځلی غټو میتیازو ته ځي.</string>
+    <string name="first_name">لومړی نوم دلته ولیکئ</string>
+    <string name="second_name">ورستی نوم دلته ولیکئ</string>
+    <string name="see_result">خپله نتیجه وګورئ</string>
+    <string name="repeat">بیا ځلی ځان و ازموی</string>
+    <string name="error">لومړی فارم ډک کړی</string>
+
+
+</resources>
